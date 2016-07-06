@@ -9,4 +9,4 @@ Welcome!
 
 This will be the main page for the academy, linking to all student projects. We love open source data.
 
-BOOTCAMP 5 is awesome!!
+BOOTCAMP 6 is awesome!!
